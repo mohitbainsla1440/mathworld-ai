@@ -16,25 +16,28 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 App Screenshots
+
 ## 📸 App Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="150"/>
-  <img src="screenshots/profile.png" width="150"/>
-  <img src="screenshots/ai_tutor.png" width="150"/>
-  <img src="screenshots/learning_plan.png" width="150"/>
-  <img src="screenshots/questions.png" width="150"/>
-  <img src="screenshots/solver.png" width="150"/>
-</p>
+  <img src="screenshots/home.png" width="180"/><br>
+  <b>🏠 Home Screen</b><br><br>
 
-<p align="center">
-  🏠 Home &nbsp;&nbsp;&nbsp;
-  👤 Profile &nbsp;&nbsp;&nbsp;
-  🤖 AI Tutor &nbsp;&nbsp;&nbsp;
-  📚 Learning Plan &nbsp;&nbsp;&nbsp;
-  ❓ Questions &nbsp;&nbsp;&nbsp;
-  🧮 Solver
+  <img src="screenshots/profile.png" width="180"/><br>
+  <b>👤 Profile Page</b><br><br>
+
+  <img src="screenshots/ai_tutor.png" width="180"/><br>
+  <b>🤖 AI Tutor</b><br><br>
+
+  <img src="screenshots/learning_plan.png" width="180"/><br>
+  <b>📚 Learning Plan</b><br><br>
+
+  <img src="screenshots/questions.png" width="180"/><br>
+  <b>❓ Questions Input</b><br><br>
+
+  <img src="screenshots/solver.png" width="180"/><br>
+  <b>🧮 Solution Output</b>
 </p>
 
 ---
