@@ -17,7 +17,25 @@
 ---
 
 ## 📸 Screenshots
-(Add screenshots below 👇)
+## 📸 App Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" width="150"/>
+  <img src="screenshots/profile.png" width="150"/>
+  <img src="screenshots/ai_tutor.png" width="150"/>
+  <img src="screenshots/learning_plan.png" width="150"/>
+  <img src="screenshots/questions.png" width="150"/>
+  <img src="screenshots/solver.png" width="150"/>
+</p>
+
+<p align="center">
+  🏠 Home &nbsp;&nbsp;&nbsp;
+  👤 Profile &nbsp;&nbsp;&nbsp;
+  🤖 AI Tutor &nbsp;&nbsp;&nbsp;
+  📚 Learning Plan &nbsp;&nbsp;&nbsp;
+  ❓ Questions &nbsp;&nbsp;&nbsp;
+  🧮 Solver
+</p>
 
 ---
 
