@@ -7,14 +7,20 @@
 🚀 AI-powered math learning app that solves problems with step-by-step explanations  
 
 ---
+## 🚀 Download App
 
-## 📲 Download App
-
-👉 [Download MathWorld AI APK](https://github.com/mohitbainsla1440/mathworld-ai/releases/download/v1.0/Mathworld-AI.apk)
+<p align="center">
+  <a href="https://github.com/mohitbainsla1440/mathworld-ai/releases/download/v1.0/Mathworld-AI.apk">
+    <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android"/>
+  </a>
+</p>
 
 ⚠️ Enable "Install from unknown sources" before installing  
 
 ---
+![GitHub stars](https://img.shields.io/github/stars/mohitbainsla1440/mathworld-ai)
+![GitHub forks](https://img.shields.io/github/forks/mohitbainsla1440/mathworld-ai)
+![GitHub repo size](https://img.shields.io/github/repo-size/mohitbainsla1440/mathworld-ai)
 
 ## 📸 App Screenshots
 
@@ -35,6 +41,15 @@
   ❓ Questions &nbsp;&nbsp;&nbsp;
   🧮 Solver
 </p>
+---
+
+## ⚡ Highlights
+
+- 📱 Real working Android app  
+- 🤖 AI-powered math assistant  
+- 📖 Step-by-step explanations  
+- 🚀 Built from scratch
+
 ---
 
 ## 🧠 Features
