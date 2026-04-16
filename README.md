@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="mathworld_ai_icon_512.png" width="120"/>
+</p>
+
 # 📱 MathWorld AI  
 
 🚀 AI-powered math learning app that solves problems with step-by-step explanations  
