@@ -6,11 +6,6 @@
 
 🚀 AI-powered math learning app that solves problems with step-by-step explanations  
 
-## 💡 Why I Built This
-
-I built MathWorld AI to make learning math easier and more interactive using AI.  
-The goal is to help users not just get answers, but actually understand concepts.
-
 ---
 ## 🚀 Download App
 
@@ -48,6 +43,12 @@ The goal is to help users not just get answers, but actually understand concepts
 </p>
 ---
 
+## 💡 Why I Built This
+
+I built MathWorld AI to make learning math easier and more interactive using AI.  
+The goal is to help users not just get answers, but actually understand concepts.
+
+---
 ## ⚡ Highlights
 
 - 📱 Real working Android app  
