@@ -7,7 +7,7 @@
 🚀 AI-powered math learning app that solves problems with step-by-step explanations  
 
 ---
-## 🚀 Download App
+## 🚀 Download App ## Click Download button enjoy 
 
 <p align="center">
   <a href="https://github.com/mohitbainsla1440/mathworld-ai/releases/download/v1.0/Mathworld-AI.apk">
