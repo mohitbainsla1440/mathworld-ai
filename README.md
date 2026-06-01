@@ -12,7 +12,7 @@
 Click the download button below to download this app
 
 <p align="left">
-  <a href="https://github.com/mohitbainsla1440/mathworld-ai/releases/download/v1.0/Mathworld-AI.apk">
+  <a href="https://play.google.com/store/apps/details?id=com.mathworldai.kids">
     <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android"/>
   </a>
 </p>
